@@ -1,2 +1,2 @@
-# BlackMathematicians
-Scraped websites to create a dataset of Black Mathematicians.
+# Black Mathematicians
+Scraped Wikipedia to create a .csv dataset of Black Mathematicians.
